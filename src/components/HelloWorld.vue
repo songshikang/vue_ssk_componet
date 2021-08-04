@@ -93,7 +93,7 @@ export default {
         if (id === arr.parentId) {
           childs.push({
             'id': arr.id,
-            'label': arr.name
+            'label': arr.name,
           })
         }
       }
