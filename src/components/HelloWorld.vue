@@ -87,7 +87,7 @@ export default {
     },
 
     getchilds(id, array) {
-      
+    
       const childs = []
       for (const arr of array) {  // 循环获取子节点
         if (id === arr.parentId) {
