@@ -7,6 +7,7 @@
 
 <script>
 import AntvGraph from '@/views/dropdrog';
+
 // import AntvGraph from '@/views/antvGraph';
 // import AntvGraph from '@/views/antvGraph/circle';
 // import AntvGraph from '@/views/antvGraph/text';
@@ -16,7 +17,7 @@ export default {
   },
   data() {
     return {
-      
+
     };
   },
   mounted () {
